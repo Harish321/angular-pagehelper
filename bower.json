@@ -1,0 +1,21 @@
+{
+  "name": "angular-pagehelper",
+  "main": "angular-pagehelper.js",
+  "homepage": "https://github.com/Harish321/angular-pagehelper",
+  "authors": [
+    "Harish Dhulipalla"
+  ],
+  "description": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.2.0"
+  }
+}
